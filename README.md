@@ -13,6 +13,8 @@ See also:
 * :owl: [lowdb - local JSON database](https://github.com/typicode/lowdb)
 * :x: :heavy_check_mark: [xv - the most minimalist test runner](https://github.com/typicode/xv)
 
+Nodejs installation link: https://nodejs.org/dist/v16.6.1/node-v16.6.1-x64.msi
+
 <p>&nbsp;</p>
 
 <h2 align="center">Gold sponsors 🥇</h2>
